@@ -1,0 +1,2 @@
+numstars 12
+highscore 10
